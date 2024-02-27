@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\Desktop\\App\\data.api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{331A4886-3281-402E-84D6-8263D39CE0FA}|data.api\\data.api.csproj|c:\\users\\ahmed\\desktop\\app\\data.api\\data.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331A4886-3281-402E-84D6-8263D39CE0FA}|data.api\\data.api.csproj|solutionrelative:data.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331A4886-3281-402E-84D6-8263D39CE0FA}|data.api\\data.api.csproj|c:\\users\\ahmed\\desktop\\app\\data.api\\data.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331A4886-3281-402E-84D6-8263D39CE0FA}|data.api\\data.api.csproj|solutionrelative:data.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\App\\data.api\\data.api\\data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "data.api\\data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\App\\data.api\\data.api\\data\\AppDbContext.cs",
+              "RelativeToolTip": "data.api\\data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T13:14:12.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Desktop\\App\\data.api\\data.api\\Program.cs",
+              "RelativeDocumentMoniker": "data.api\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Desktop\\App\\data.api\\data.api\\Program.cs",
+              "RelativeToolTip": "data.api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T13:11:44.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

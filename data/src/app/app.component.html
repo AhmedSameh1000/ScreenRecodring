@@ -1,0 +1,25 @@
+<div class="d-flex justify-content-around">
+  <button class="btn btn-primary" (click)="Start()">Start</button>
+  <button class="btn btn-primary" (click)="Stop()  ">Stop</button>
+
+
+  <button class="btn btn-primary" (click)="Downlaod()">Download</button>
+
+</div>
+<div  class=" w-50 h-25 mt-3" style="max-height: 200px;" >
+  <video #video controls autoplay playsInline height="300px" >
+  <source [src]="videoBlobUrl">
+  </video>
+</div>
+<div style="margin-top: 100px;"></div>
+<button (click)="Go()">Go to Another Component</button>
+<hr>
+<div *ngFor="let item of videos;let i=index">
+  <div  class=" w-50 h-25 mt-3" style="max-height: 200px;" >
+    <video #video controls autoplay playsInline height="300px" >
+    <source [src]="item.base64">
+    </video>
+  </div>  
+</div>
+<router-outlet></router-outlet>
+
